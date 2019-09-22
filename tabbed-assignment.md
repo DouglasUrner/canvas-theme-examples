@@ -1,4 +1,5 @@
 ---
+title: Tabbed Assignment Example
 template: tabbed-assignment
 ---
 
