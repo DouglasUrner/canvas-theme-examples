@@ -1,5 +1,6 @@
 ---
 layout: tabbed-assignment
+outcome: {{ lesson.outcome }} (anything there?)
 ---
 
 # Learning Targets
