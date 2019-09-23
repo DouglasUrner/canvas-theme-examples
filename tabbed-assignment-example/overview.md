@@ -1,5 +1,6 @@
 ---
 layout: tabbed-assignment
+objective: Learn to think about games and design.
 ---
 
 # Overview
