@@ -1,6 +1,6 @@
 ---
 layout: page
-font-color: blue
+font-color: purple
 ---
 
 # Layouts
