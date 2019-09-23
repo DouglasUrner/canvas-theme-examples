@@ -1,5 +1,8 @@
 ---
 layout: page
+font-color: blue
 ---
 
-[Tabbed Assignment](tabbed-assignment-example/overview.html)
+# Layouts
+
+* [Tabbed Assignment](tabbed-assignment-example/overview.html)
