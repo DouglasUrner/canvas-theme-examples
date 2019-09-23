@@ -1,6 +1,7 @@
 ---
 layout: tabbed-assignment
 objective: Learn to think about games and design and to create new games.
+objective-bg-color: maroon
 ---
 
 # Overview
