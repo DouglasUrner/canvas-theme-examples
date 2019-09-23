@@ -1,10 +1,10 @@
-- name: Overview
+- name: Overview (root/_data)
   link: overview.html
-- name: Learning Targets
+- name: Learning Targets (root/_data)
   link: learning-targets.html
-- name: Instructions
+- name: Instructions (root/_data)
   link: instructions.html
-- name: Submission
+- name: Submission (root/_data)
   link: submission.html
-- name: Resources
+- name: Resources (root/_data)
   link: resources.html
